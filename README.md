@@ -1,3 +1,6 @@
 # Stress-Strain-Analysis
-## Problems solved using Ansys APDL 
+## Input Parameters:
+* Dimensions of the object
+* External forces acting
+* Boundary conditions
 
