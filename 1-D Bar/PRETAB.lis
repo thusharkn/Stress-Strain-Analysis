@@ -1,0 +1,17 @@
+
+ PRINT ELEMENT TABLE ITEMS PER ELEMENT
+ 
+  ***** POST1 ELEMENT TABLE LISTING *****                                      
+ 
+    STAT     CURRENT 
+    ELEM     STRESS  
+       1   2.0000     
+
+ MINIMUM VALUES
+ ELEM          1
+ VALUE    2.0000     
+
+ MAXIMUM VALUES
+ ELEM          1
+ VALUE    2.0000     
+

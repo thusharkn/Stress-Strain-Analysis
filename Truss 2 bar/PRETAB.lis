@@ -1,0 +1,18 @@
+
+ PRINT ELEMENT TABLE ITEMS PER ELEMENT
+ 
+  ***** POST1 ELEMENT TABLE LISTING *****                                      
+ 
+    STAT     CURRENT 
+    ELEM     LS1     
+       1  -86638.     
+       2   70755.     
+
+ MINIMUM VALUES
+ ELEM          1
+ VALUE   -86638.     
+
+ MAXIMUM VALUES
+ ELEM          2
+ VALUE    70755.     
+
